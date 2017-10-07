@@ -1,6 +1,7 @@
 #============================================
 # SENSAI
 #============================================
+
 Code base for Sensai concept
 Contains Force measuring app that connects to the Sensai sensor to measure force.
 
@@ -13,4 +14,5 @@ Steps to build:
 #============================================
 # MICROBIT
 #============================================
+
 MICROBIT folder contains the hex downloadable code for the Sensai microbit hardware
